@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "https://username.github.io"
+baseurl = "https://melindahiggins2001.github.io/blog2/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
